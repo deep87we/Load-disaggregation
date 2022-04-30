@@ -6,11 +6,11 @@
 ![App Screenshot](https://th.bing.com/th/id/OIP.Zl_hi962EkdFKpdzEnOLiAHaJC?pid=ImgDet&rs=1)
 <br/>
 <br/>
-This is a course project of EN 304 Energy engineering ,done in a group of 3 members under the guidance of Course Instructor and Project Mentor
+This is a course project of **EN 304 Energy engineering** ,done in a group of 3 members under the guidance of Course Instructor and Project Mentor.
 <br/>
-**Course Intstructor**:-Zakir Hussain Rather(Professor at IIT Bombay)
+**Course Intstructor**:-Zakir Hussain Rather(**Professor at IIT Bombay**)
 <br/>
-**Project Mentor**:-Dhiraj Khadka(PHD Student at IIT Bombay)
+**Project Mentor**:-Dhiraj Khadka(**PHD Student at IIT Bombay**)
 <br/>
 # Project Tasks
 1. Study in detail the load disaggregation and its importance.
